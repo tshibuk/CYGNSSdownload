@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  9 18:32:52 2018
 
-@author: shibukawa
-"""
 import requests
 import urllib.request
 from bs4 import BeautifulSoup
